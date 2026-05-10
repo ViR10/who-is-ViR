@@ -1,0 +1,6 @@
+Site: Who Is ViR
+URL: https://whoisvir.netlify.app/
+Owner: Adeel
+Role: CEO & Founder of ViR Developers
+Identity: ViR is the digital identity of Adeel
+Tech: Next.js, Tailwind CSS, Three.js
