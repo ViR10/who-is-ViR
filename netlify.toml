@@ -1,6 +1,9 @@
 [build]
-  command = "npm run build -- --webpack"
-  publish = "out"
+  command = "npm run build"
+  publish = ""
+
+[build.environment]
+  NODE_VERSION = "22"
 
 [[headers]]
   for = "/*"
